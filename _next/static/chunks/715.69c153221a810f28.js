@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[715],{1715:function(e,t,n){n.r(t),n.d(t,{default:function(){return u}});var i=n(1527);n(959);function u(e){let{mapContainer:t,isBigScreen:n}=e;return(0,i.jsx)("div",{ref:t,"data-tap-disabled":"true",style:{height:n?"100vh":"60vh",width:"100%",zIndex:1,position:"absolute"}})}}}]);
